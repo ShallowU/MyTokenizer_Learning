@@ -10,8 +10,8 @@
 若根据文档该文档进行实验，则环境配置简单如下:
 
 ```
-git clone 该仓库
-cd 该仓库文件夹
+git clone https://github.com/ShallowU/MyTokenizer_Learning.git
+cd MyTokenizer_Learning
 ```
 
 ```
@@ -234,7 +234,7 @@ SentencePiece 是一个无监督的文本分词器，主要特点包括：
 
 jieba:https://github.com/fxsjy/jieba
 
-学习jieba：
+学习jieba：[jieba_demo](https://github.com/ShallowU/MyTokenizer_Learning/blob/master/%E4%B8%8D%E5%90%8CLLM%E7%9A%84tokenizer%E5%88%86%E6%9E%90-%E6%96%B0%E6%89%8B%E5%90%91.md)
 
 ## 参考资料
 
